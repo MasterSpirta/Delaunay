@@ -17,7 +17,9 @@ namespace Delanay
             X = _x;
             Y = _y;
         }
-
+        /// <summary>
+        /// 
+        /// </summary>
         public float X {
 
             get {
