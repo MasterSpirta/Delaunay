@@ -18,7 +18,7 @@ namespace Delanay
             Y = _y;
         }
         /// <summary>
-        /// 
+        /// 234234
         /// </summary>
         public float X {
 
